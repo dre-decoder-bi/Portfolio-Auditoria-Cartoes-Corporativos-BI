@@ -6,7 +6,7 @@ Projeto de **Business Intelligence e Engenharia de Dados** focada em Compliance.
 ![Capa do Dashboard](auditoria_cartoes_corporativos_capa.png)
 
 ## 🔗 Link do Dashboard Interativo
-> **[Acesse a Demonstração Interativa aqui](https://youtu.be/jY7_ut8JYhw)**
+> **[Acesse a Demonstração Interativa aqui](https://youtu.be/V5S9ErWdDOc)**
 
 ## 🎯 Desafio de Negócio
 
@@ -38,4 +38,5 @@ A inteligência do projeto reside na camada de transformação, que aplica as se
 * **Detalhamento de Transações:** Relatório analítico com ícones de alerta para ação imediata da auditoria.
 
 ---
+
 *Desenvolvido por Andressa Bortolace*
