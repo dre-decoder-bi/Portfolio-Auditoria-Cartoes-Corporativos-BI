@@ -39,4 +39,5 @@ A inteligência do projeto reside na camada de transformação, que aplica as se
 
 ---
 
-*Desenvolvido por Andressa Bortolace*
+*Desenvolvido por Andressa*
+
