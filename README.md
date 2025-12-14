@@ -1,6 +1,6 @@
 # 🛡️ Auditoria e Detecção de Anomalias em Cartões Corporativos
 
-Projeto de **Business Intelligence e Engenharia de Dados** com foco em Compliance com o objetivo de criar um sistema automatizado para auditar despesas, detectar fraudes e identificar "gastos cruzados" em cartões corporativos.
+Projeto de **Business Intelligence e Engenharia de Dados** com foco em auditoria e compliance com o objetivo de criar um sistema automatizado para auditar despesas, detectar fraudes e identificar "gastos cruzados" em cartões corporativos.
 
 ## 📊 Visão Geral do Dashboard
 ![Capa do Dashboard](auditoria_cartoes_corporativos_capa.png)
@@ -40,5 +40,6 @@ A inteligência se aplica na camada de transformação, que ativa as seguintes "
 ---
 
 *Desenvolvido por Andressa*
+
 
 
