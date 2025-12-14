@@ -28,7 +28,7 @@ A inteligência se aplica na camada de transformação, que ativa as seguintes "
 | Regra de Risco | Descrição da Lógica Aplicada |
 | :--- | :--- |
 | **Gasto Cruzado** | Cruza o "Departamento do Cartão" com a "Categoria do Gasto (MCC)". Se houver divergência (ex: Marketing gastando em peças automotivas), gera alerta. |
-| **Horário Anômalo** | Identifica transações realizadas fora do horário comercial (22h às 06h) ou em finais de semana. |
+| **Horário atípico** | Identifica transações realizadas fora do horário comercial (22h às 06h) ou em finais de semana. |
 | **Valor Redondo** | Identifica valores múltiplos de 50 ou 100 (ex: R$ 500,00) que fogem da distribuição natural de preços e podem indicar saques ou gift cards. |
 | **Duplicidade** | Utiliza *Window Functions* para detectar transações idênticas (mesmo valor, local e hora) processadas em sequência. |
 
@@ -40,6 +40,7 @@ A inteligência se aplica na camada de transformação, que ativa as seguintes "
 ---
 
 *Desenvolvido por Andressa*
+
 
 
 
