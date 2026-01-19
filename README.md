@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # 🛡️ Auditoria e Compliance em Cartões Corporativos
 
 Projeto de **Business Intelligence e Engenharia de Dados** com foco em auditoria e compliance com o objetivo de criar um sistema automatizado para auditar despesas, detectar fraudes e identificar "gastos cruzados" em cartões corporativos.
@@ -40,6 +45,7 @@ A inteligência se aplica na camada de transformação, que ativa as seguintes "
 ---
 
 *Desenvolvido por Andressa*
+
 
 
 
